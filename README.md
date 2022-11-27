@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Create Housing App
+# Started on 27.11.2022
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is housing project [React App]
 
 ## Available Scripts
 
